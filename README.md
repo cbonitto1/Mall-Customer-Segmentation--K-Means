@@ -1,2 +1,5 @@
 # Mall-Customer-Segmentation--K-Means
-#Customers were divided into specific populations or clusters for use in marketing via the K-Means Algorithn
+
+-Mall customers were split into groups or clusters based on factors such as age, gender, spending score etc. for the purpose of a targeted marketing campaign.
+
+-Implemented model via the K-means algorithm
